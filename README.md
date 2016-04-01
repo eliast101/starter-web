@@ -7,5 +7,6 @@ As stated above, the main purpose of this lesson is to show how to use git in in
 ## Deployment
 This is a simple web project, deployment can be on any web server or even on local file system.
 ## How To Contribute
+Please fork this repo and make pull request for review
 ### Copyright
 Copyright 2016 git.training
